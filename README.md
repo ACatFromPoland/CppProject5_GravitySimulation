@@ -1,4 +1,4 @@
-# CppProject5_GravitySimulation
+# GravitySimulation
 
 This is my 5th Project, the other 3 between 1 and 5 aren't functional for presentation.
 
