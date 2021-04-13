@@ -1,8 +1,0 @@
-﻿  main.cpp
-c:\users\usmca\documents\visual studio 2015\projects\project5\project5\main.cpp(67): warning C4018: '<': signed/unsigned mismatch
-c:\users\usmca\documents\visual studio 2015\projects\project5\project5\main.cpp(82): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
-c:\users\usmca\documents\visual studio 2015\projects\project5\project5\main.cpp(83): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
-c:\users\usmca\documents\visual studio 2015\projects\project5\project5\main.cpp(86): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
-c:\users\usmca\documents\visual studio 2015\projects\project5\project5\main.cpp(125): warning C4018: '<': signed/unsigned mismatch
-c:\users\usmca\documents\visual studio 2015\projects\project5\project5\main.cpp(131): warning C4018: '<': signed/unsigned mismatch
-sfml-window-d.lib(sfml-window-d-2.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'X86'

@@ -1,9 +1,0 @@
-﻿  main.cpp
-main.cpp(57): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
-main.cpp(58): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
-main.cpp(67): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
-  Generating code
-  All 103 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  Project5.vcxproj -> I:\2021\Github\CppProject5_GravitySimulation\x64\Release\Project5.exe
-  Project5.vcxproj -> I:\2021\Github\CppProject5_GravitySimulation\x64\Release\Project5.pdb (Full PDB)
